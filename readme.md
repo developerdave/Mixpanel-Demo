@@ -1,1 +1,1 @@
-change 1
+another change which conflicts
